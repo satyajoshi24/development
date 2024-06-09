@@ -84,10 +84,11 @@ footer {
 .post-creator > img{
     width: 30px;
     height: 30px;
+    border-radius: 15px;
 }
 .post-creator span{
     font-weight: bold;
-   padding: 7px 0 0 10px;
+   padding: 5px 0 0 10px;
 }
 .attribution{ 
     font-size: 11px; 
